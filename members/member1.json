@@ -1,4 +1,8 @@
 {
   "name": "xiaoming",
+<<<<<<< HEAD
   "email": "xiaoming@gmail.com"
+=======
+  "age": 18
+>>>>>>> 2aed8608530faf09ce9adf1900b4fe54f6b9a3d9
 }
